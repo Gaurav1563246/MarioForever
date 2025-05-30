@@ -4,7 +4,7 @@ A fun 2D platformer game inspired by Mario, built with HTML5 Canvas and JavaScri
 
 ## 🎮 Play the Game
 
-You can play the game online at: [https://YOUR_GITHUB_USERNAME.github.io/MarioForever](https://YOUR_GITHUB_USERNAME.github.io/MarioForever)
+You can play the game online at: [https://gaurav1563246.github.io/MarioForever](https://gaurav1563246.github.io/MarioForever)
 
 ## 🎯 Game Features
 
